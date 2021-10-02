@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+config.py
+.icloud
 .DS_Store
 __pycache__/
 *.py[cod]
