@@ -27,8 +27,12 @@ API's used: [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/?re
     * Looking at various factors with earthquakes (when, where, and a possible trend).
 
 * Project Breakdown:
-    *
-    *
+    *Where do earthquakes happen by Country? / top 10
+    *What is the density of Magnitudes for Earthquakes
+    *What month do earthquakes mostly occur?
+    *What is the alert level density of earthquakes
+    *Is there a Relationship between Magnitude and % chance of Large Oceanic Event
+    
 
 ### Part I - ***Earthquakes_Project_1.ipynb***
 
