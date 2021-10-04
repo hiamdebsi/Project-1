@@ -13,7 +13,7 @@ Coding in Python, in Jupyter Notebooks, utilizing USGS.gov earthquake api. googl
 *Created a FOLDER 'output_data_files' which has the output files and images.:
     Earthquakes_Project_1  saves **EarthqakeData.csv** 
     Earthquakes_Prject_1_Analysis saves various *.png files of interest for project analysis. Screenshot of a heatmap is included.
-*Created a FOLDER 'presentation' which holds a Power Point presentation file for final analysis.
+*Created a FOLDER 'presentation' which holds a Power Point presentation saved as a .pdf file for a final analysis review.
 
 API's used: [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/?ref=springboard), 
                    [USGS Earthquake Documentation](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
@@ -35,10 +35,6 @@ API's used: [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/?re
     
 
 ### Part I - ***Earthquakes_Project_1.ipynb***
-
-
-
-
 # Gathering Earthquake Information
 
 
